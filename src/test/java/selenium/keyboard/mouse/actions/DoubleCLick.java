@@ -14,7 +14,7 @@ public class DoubleCLick {
 
 		driver.manage().window().maximize();
 		
-		driver.manage().timeouts().implicitlyWait(Duration.ofSeconds(30));
+		driver.manage().timeouts().implicitlyWait(Duration.ofSeconds(40));
 
 		driver.get("https://www.w3schools.com/jsref/tryit.asp?filename=tryjsref_ondblclick");
 

@@ -1,0 +1,241 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results ignored="0" total="4" passed="4" failed="0" skipped="0">
+  <reporter-output>
+  </reporter-output>
+  <suite started-at="2024-07-23T07:51:32 IST" name="Suite" finished-at="2024-07-23T07:52:19 IST" duration-ms="47378">
+    <groups>
+    </groups>
+    <test started-at="2024-07-23T07:51:32 IST" name="Test" finished-at="2024-07-23T07:52:19 IST" duration-ms="47378">
+      <class name="selenium.project.v3.CreateLead">
+        <test-method is-config="true" signature="set()[pri:0, instance:selenium.project.v3.CreateLead@2cd76f31]" started-at="2024-07-23T07:51:32 IST" name="set" finished-at="2024-07-23T07:51:32 IST" duration-ms="8" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- set -->
+        <test-method is-config="true" signature="preCondition(java.lang.String,java.lang.String,java.lang.String,java.lang.String)[pri:0, instance:selenium.project.v3.CreateLead@2cd76f31]" started-at="2024-07-23T07:51:32 IST" name="preCondition" finished-at="2024-07-23T07:51:39 IST" duration-ms="7045" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[http://leaftaps.com/opentaps/control/main]]>
+              </value>
+            </param>
+            <param index="1">
+              <value>
+                <![CDATA[demosalesManager]]>
+              </value>
+            </param>
+            <param index="2">
+              <value>
+                <![CDATA[crmsfa]]>
+              </value>
+            </param>
+            <param index="3">
+              <value>
+                <![CDATA[chrome]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- preCondition -->
+        <test-method signature="runCreate(java.lang.String,java.lang.String,java.lang.String,java.lang.String)[pri:0, instance:selenium.project.v3.CreateLead@2cd76f31]" started-at="2024-07-23T07:51:39 IST" name="runCreate" data-provider="getdata" finished-at="2024-07-23T07:51:44 IST" duration-ms="4713" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[KannaTest]]>
+              </value>
+            </param>
+            <param index="1">
+              <value>
+                <![CDATA[Kannathasan]]>
+              </value>
+            </param>
+            <param index="2">
+              <value>
+                <![CDATA[pooja]]>
+              </value>
+            </param>
+            <param index="3">
+              <value>
+                <![CDATA[99]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- runCreate -->
+        <test-method is-config="true" signature="postCondition()[pri:0, instance:selenium.project.v3.CreateLead@2cd76f31]" started-at="2024-07-23T07:51:44 IST" name="postCondition" finished-at="2024-07-23T07:51:44 IST" duration-ms="109" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- postCondition -->
+        <test-method is-config="true" signature="preCondition(java.lang.String,java.lang.String,java.lang.String,java.lang.String)[pri:0, instance:selenium.project.v3.CreateLead@2cd76f31]" started-at="2024-07-23T07:51:44 IST" name="preCondition" finished-at="2024-07-23T07:51:51 IST" duration-ms="6704" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[http://leaftaps.com/opentaps/control/main]]>
+              </value>
+            </param>
+            <param index="1">
+              <value>
+                <![CDATA[demosalesManager]]>
+              </value>
+            </param>
+            <param index="2">
+              <value>
+                <![CDATA[crmsfa]]>
+              </value>
+            </param>
+            <param index="3">
+              <value>
+                <![CDATA[chrome]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- preCondition -->
+        <test-method signature="runCreate(java.lang.String,java.lang.String,java.lang.String,java.lang.String)[pri:0, instance:selenium.project.v3.CreateLead@2cd76f31]" started-at="2024-07-23T07:51:51 IST" name="runCreate" data-provider="getdata" finished-at="2024-07-23T07:51:56 IST" duration-ms="4806" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[shubhamTest]]>
+              </value>
+            </param>
+            <param index="1">
+              <value>
+                <![CDATA[Hari]]>
+              </value>
+            </param>
+            <param index="2">
+              <value>
+                <![CDATA[pooja]]>
+              </value>
+            </param>
+            <param index="3">
+              <value>
+                <![CDATA[98]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- runCreate -->
+        <test-method is-config="true" signature="postCondition()[pri:0, instance:selenium.project.v3.CreateLead@2cd76f31]" started-at="2024-07-23T07:51:56 IST" name="postCondition" finished-at="2024-07-23T07:51:56 IST" duration-ms="109" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- postCondition -->
+        <test-method is-config="true" signature="preCondition(java.lang.String,java.lang.String,java.lang.String,java.lang.String)[pri:0, instance:selenium.project.v3.CreateLead@2cd76f31]" started-at="2024-07-23T07:51:56 IST" name="preCondition" finished-at="2024-07-23T07:52:03 IST" duration-ms="6745" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[http://leaftaps.com/opentaps/control/main]]>
+              </value>
+            </param>
+            <param index="1">
+              <value>
+                <![CDATA[demosalesManager]]>
+              </value>
+            </param>
+            <param index="2">
+              <value>
+                <![CDATA[crmsfa]]>
+              </value>
+            </param>
+            <param index="3">
+              <value>
+                <![CDATA[chrome]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- preCondition -->
+        <test-method signature="runCreate(java.lang.String,java.lang.String,java.lang.String,java.lang.String)[pri:0, instance:selenium.project.v3.CreateLead@2cd76f31]" started-at="2024-07-23T07:52:03 IST" name="runCreate" data-provider="getdata" finished-at="2024-07-23T07:52:07 IST" duration-ms="4905" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[mitajTest]]>
+              </value>
+            </param>
+            <param index="1">
+              <value>
+                <![CDATA[Anu]]>
+              </value>
+            </param>
+            <param index="2">
+              <value>
+                <![CDATA[pooja]]>
+              </value>
+            </param>
+            <param index="3">
+              <value>
+                <![CDATA[90]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- runCreate -->
+        <test-method is-config="true" signature="postCondition()[pri:0, instance:selenium.project.v3.CreateLead@2cd76f31]" started-at="2024-07-23T07:52:07 IST" name="postCondition" finished-at="2024-07-23T07:52:08 IST" duration-ms="112" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- postCondition -->
+        <test-method is-config="true" signature="preCondition(java.lang.String,java.lang.String,java.lang.String,java.lang.String)[pri:0, instance:selenium.project.v3.CreateLead@2cd76f31]" started-at="2024-07-23T07:52:08 IST" name="preCondition" finished-at="2024-07-23T07:52:14 IST" duration-ms="6506" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[http://leaftaps.com/opentaps/control/main]]>
+              </value>
+            </param>
+            <param index="1">
+              <value>
+                <![CDATA[demosalesManager]]>
+              </value>
+            </param>
+            <param index="2">
+              <value>
+                <![CDATA[crmsfa]]>
+              </value>
+            </param>
+            <param index="3">
+              <value>
+                <![CDATA[chrome]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- preCondition -->
+        <test-method signature="runCreate(java.lang.String,java.lang.String,java.lang.String,java.lang.String)[pri:0, instance:selenium.project.v3.CreateLead@2cd76f31]" started-at="2024-07-23T07:52:14 IST" name="runCreate" data-provider="getdata" finished-at="2024-07-23T07:52:19 IST" duration-ms="4789" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[Kavi]]>
+              </value>
+            </param>
+            <param index="1">
+              <value>
+                <![CDATA[R]]>
+              </value>
+            </param>
+            <param index="2">
+              <value>
+                <![CDATA[Arasan]]>
+              </value>
+            </param>
+            <param index="3">
+              <value>
+                <![CDATA[89]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- runCreate -->
+        <test-method is-config="true" signature="postCondition()[pri:0, instance:selenium.project.v3.CreateLead@2cd76f31]" started-at="2024-07-23T07:52:19 IST" name="postCondition" finished-at="2024-07-23T07:52:19 IST" duration-ms="129" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- postCondition -->
+      </class> <!-- selenium.project.v3.CreateLead -->
+    </test> <!-- Test -->
+  </suite> <!-- Suite -->
+</testng-results>
